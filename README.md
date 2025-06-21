@@ -55,7 +55,7 @@ Permitir ao usuário simular investimentos mensais em FIIs (Fundos Imobiliários
 
 ## 📷 Imagem de Prévia
 
-![Visualização da Planilha](images/preview-simulador.png)
+![Visualização da Planilha](INVESTIR.xlsx)
 
 ---
 
